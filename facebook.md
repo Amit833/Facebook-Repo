@@ -43,7 +43,7 @@
 
 
 <p align="center">
-<img src= https://www.freeiconspng.com/uploads/mark-zuckerberg-picture-8.png Height="300" width="300" alt= "zucherbers photo">
+<img src= https://wallpapercave.com/wp/wp2126169.jpg  Height="200" width="200" alt= "zucherbers photo">
 </p>
 
 >    ## CEO:MARK ZUCHERBERG
