@@ -44,15 +44,9 @@
 > ## Thank you Facebook.
 
 <p align="center">
-<img src= https://www.freeiconspng.com/uploads/mark-zuckerberg-picture-8.png Height="300" width="300">
+<img src= https://www.freeiconspng.com/uploads/mark-zuckerberg-picture-8.png Height="300" width="300" alt= zucherbers photo >
 </p>
-<P align="center">
-CEO
-</P>
 
 ``` facebook
+                     CEO
 ``` 
-
-* [ ] task list
-* [ ] task list
-* [x] task list
