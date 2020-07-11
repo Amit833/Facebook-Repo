@@ -41,12 +41,11 @@
 2.  Easy to operate
 3. Low internet cost
 
-> ## Thank you Facebook.
 
 <p align="center">
-<img src= https://www.freeiconspng.com/uploads/mark-zuckerberg-picture-8.png Height="300" width="300" alt= zucherbers photo >
+<img src= https://www.freeiconspng.com/uploads/mark-zuckerberg-picture-8.png Height="300" width="300" alt= "zucherbers photo">
 </p>
 
-``` facebook
-                     CEO
-``` 
+>    ## CEO:MARK ZUCHERBERG
+
+
