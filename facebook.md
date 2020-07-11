@@ -42,10 +42,12 @@
 3. Low internet cost
 
 
-<p align="center">
-<img src= https://wallpapercave.com/wp/wp2126169.jpg  Height="200" width="200" alt= "zucherbers photo">
-</p>
 
->                CEO:MARK ZUCHERBERG
+
+
+<img src= https://wallpapercave.com/wp/wp2126169.jpg  Height="200" width="200" alt= "zucherbers photo">
+
+
+>## CEO:MARK ZUCHERBERG
 
 
