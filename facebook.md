@@ -24,7 +24,7 @@
 - [x] Chat with friends.
 - [ ] Watch Movies.
 
-## Parsentage of useing
+## Persentage of useing
 
 |Continent |Persentage |
 |----------|-----------|
@@ -51,7 +51,11 @@
 ---
 
 <div class="embed-responsive-embed-responsive-16by9">
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ivKEj3ksPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
 </div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/855270964&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/pslwave" title="PSL" target="_blank" style="color: #cccccc; text-decoration: none;">PSL</a> · <a href="https://soundcloud.com/pslwave/drowning" title="Drowning" target="_blank" style="color: #cccccc; text-decoration: none;">Drowning</a></div>
